@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # DOCTOR_APPOINTMENT_ADMIN
 =======
 <<<<<<< HEAD
@@ -22,3 +23,6 @@ If you are developing a production application, we recommend using TypeScript wi
 # DOCTOR_APPOINTMENT_ADMIN
 >>>>>>> 4839d67bdd75085e2f87ed59828dd01bd19d81d4
 >>>>>>> temp-branch
+=======
+# DOCTOR_APPOINTMENT_ADMIN
+>>>>>>> b5b27c3c9ff25a919604b19d818090af538c4453
